@@ -1,6 +1,6 @@
 # dbverse
 
-An ecosystem of open-source R libraries for scalable scientific analytics with OLAP databases.
+An ecosystem of open-source libraries for scalable scientific analytics with OLAP databases.
 
 <table>
 <tr>
