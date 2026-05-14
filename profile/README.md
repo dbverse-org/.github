@@ -1,41 +1,53 @@
 # dbverse
 
-## Welcome to dbverse
+An ecosystem of open-source R libraries for scalable scientific analytics with OLAP databases.
 
-dbverse is an ecosystem of open-source libraries for scalable scientific analytics with OLAP databases.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## [dbMatrix](https://github.com/dbverse-org/dbmatrix-r)
+### [dbProject](https://github.com/dbverse-org/dbproject-r)
+Utilities for managing and interacting with database connections and objects in dbverse.
 
-Package for sparse/dense matrix algebra in an OLAP database.
+</td>
+<td width="50%" valign="top">
 
-<br><br>
+### [dbMatrix](https://github.com/dbverse-org/dbmatrix-r)
+Sparse and dense matrix algebra in an OLAP database.
 
-## [dbSpatial](https://github.com/dbverse-org/dbspatial-r)
+</td>
+</tr>
 
-Spatial data processing in an OLAP database.
+<tr>
+<td width="50%" valign="top">
 
-<br><br>
+### [dbSpatial](https://github.com/dbverse-org/dbspatial-r)
+Spatial geometry data processing in an OLAP database.
 
-## [dbProject](https://github.com/dbverse-org/dbproject-r)
+</td>
+<td width="50%" valign="top">
 
-A lightweight base package with specifications for classes and file/connection handling.
+### [dbSequence](https://github.com/dbverse-org/dbsequence)
+Genomic sequence operations in an OLAP database.
 
-<br><br>
+</td>
+</tr>
 
-## dbSequence
+<tr>
+<td width="50%" valign="top">
 
-Genomic sequence operations in an OLAP database. *(In progress)*
+### [GiottoDB](https://github.com/giotto-suite/GiottoDB)
+Spatial omics data analysis in R with dbverse.
 
-<br><br>
+</td>
+<td width="50%" valign="top">
 
-## GiottoDB
+### dbVisuals *(in progress)*
+Visualization workspace for dbverse objects.
 
-Scalable spatial omics data analysis in R with dbverse. *(In progress)*
+</td>
+<td width="50%" valign="top">
 
-<br><br>
-
-## MosaicShiny
-
-Scalable visualizations of dbverse objects using [uwdata/mosaic](https://github.com/uwdata/mosaic/). *(In progress)*
-
-<br><br>
+</td>
+</tr>
+</table>
