@@ -67,11 +67,13 @@ database-backed data.
 <tr>
 <td colspan="2" valign="top">
 
-### dbVisuals
+### [dbVisuals](https://github.com/dbverse-org/dbVisuals)
 
-Visualization workspace for database-backed data.
+Linked, interactive visualizations of database-backed and tabular data.
 
-**Incubating**
+[R source](https://github.com/dbverse-org/dbVisuals) ·
+[R reference](https://dbverse-org.github.io/dbVisuals/) ·
+[Web app](https://dbvisuals.pages.dev)
 
 </td>
 </tr>
